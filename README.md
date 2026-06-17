@@ -20,7 +20,7 @@ Este trabalho acadêmico tem como objetivo analisar os fatores socioeconômicos,
 O trabalho foi dividido em 3 partes:
 - [x] **Parte 1:** Contextualização, Objetivo e Limpeza de Dados.
 - [x] **Parte 2:** Cruzamento de Microdados, Taxas de Abandono e Geração de Gráficos (Insights Iniciais).
-- [ ] **Parte 3:** (Em andamento).
+- [x] **Parte 3:** Modelagem Preditiva com Random Forest e Conclusão.
 
 
 ## Onde estão os dados?
